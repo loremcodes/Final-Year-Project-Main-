@@ -10,6 +10,7 @@ export default function App() {
             <Text>Hello floks</Text>
             <Button className='btn' title="Click me"/>
             // I have put a comment
+            // Changed another line
         </View>
     );
 }
