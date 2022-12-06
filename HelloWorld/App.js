@@ -9,6 +9,7 @@ export default function App() {
         <View style={styles.container}>
             <Text>Hello floks</Text>
             <Button className='btn' title="Click me"/>
+            // I have put a comment
         </View>
     );
 }
